@@ -45,8 +45,8 @@ export const Navbar = () => {
         <div className='flex items-center space-x-10 xl:text-[14px] 2xl:text-[16px]'>
           <Link href="/homepage" className='lg:block hidden '>Home</Link>
           <Link href="#" className='lg:block hidden '>About Us </Link>
-          <Link href="/product" className='lg:block hidden '>Product</Link>
-          <Link href="#" className='lg:block hidden '>Contact Us</Link>
+          <Link href="/dashboard" className='lg:block hidden '>Product</Link>
+          <Link href="/account" className='lg:block hidden '>Contact Us</Link>
           <Link href="#" className='lg:block hidden'>FAQ</Link>
         </div>
         <div className='flex items-center  2xl:space-x-10 space-x-6'>
