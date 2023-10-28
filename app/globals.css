@@ -86,12 +86,10 @@
     @apply 2xl:w-[387px] 2xl:h-[77px] md:w-[200px] md:h-[55px] 
   }
 
-  .ez-rent-image-signup {
+  .ez-rent-image {
     @apply 2xl:w-[600px] 2xl:h-full mb-5 
   }
-  .ez-rent-image {
-    @apply 2xl:w-full 2xl:h-full mb-5 
-  }
+ 
   .left-side-bottom-text {
     @apply 2xl:text-[24px] xl:text-[15px] font-[500px] text-white italic 2xl:mt-10 xl:mt-5
   }

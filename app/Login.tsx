@@ -43,7 +43,7 @@ const Login = () => {
                         </div>
                         <button className='w-full 2xl:mt-6 mt-5 2xl:h-[65px] h-[45px] rounded-full text-center text-white 2xl:text-[20px] text-[14px] bg-[#0F172A]'><Link href={"/homepage"}>Login</Link></button>
                         <p className='2xl:text-[20px] text-[12px] text-center 2xl:mt-10 mt-3'>New User?
-                            <Link href={"./signup"} className='text-[#404EED] 2xl:text-[20px] text-[12px] ml-3'>Create an account</Link></p>
+                            <Link href={"./Signup"} className='text-[#404EED] 2xl:text-[20px] text-[12px] ml-3'>Create an account</Link></p>
                     </div>
                     <div className='bottom-bar'>Developed by
                         <a href='https://mayonity.com/'>Mayonity</a>

@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-undef */
 import Image from 'next/image'
 import Login from './Login'
 export default function Home() {
@@ -5,3 +6,4 @@ export default function Home() {
    <div > <Login/> </div>
   )
 }
+
