@@ -48,7 +48,7 @@ const Signup = () => {
                             <BiHide className="text-3xl text-[#404EED] lg:text-[18px] text-[14px] absolute right-5   " />
                         </div>
                      
-                        <button className='w-full 2xl:mt-1 mt-5 2xl:h-[65px] h-[45px] rounded-full text-center text-white 2xl:text-[20px] text-[14px] bg-[#0F172A]'><Link href={"/verification"}>Signup</Link></button>
+                        <button className='w-full 2xl:mt-1 mt-5 2xl:h-[65px] h-[45px] rounded-full text-center text-white 2xl:text-[20px] text-[14px] bg-[#0F172A]'><Link href={"/dashboard"}>Signup</Link></button>
                         <p className='2xl:text-[20px] text-[12px] text-center 2xl:mt-2 mt-2'>Already have an account?
                             <Link href={"#"} className='text-[#404EED] 2xl:text-[20px] text-[12px] ml-3'>Login</Link></p>
                     </div>
